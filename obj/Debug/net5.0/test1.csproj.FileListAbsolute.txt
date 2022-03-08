@@ -1,0 +1,16 @@
+/home/karthik_emp3/Desktop/test/test1/obj/Debug/net5.0/test1.csproj.AssemblyReference.cache
+/home/karthik_emp3/Desktop/test/test1/obj/Debug/net5.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/home/karthik_emp3/Desktop/test/test1/obj/Debug/net5.0/test1.AssemblyInfoInputs.cache
+/home/karthik_emp3/Desktop/test/test1/obj/Debug/net5.0/test1.AssemblyInfo.cs
+/home/karthik_emp3/Desktop/test/test1/obj/Debug/net5.0/test1.csproj.CoreCompileInputs.cache
+/home/karthik_emp3/Desktop/test/test1/bin/Debug/net5.0/test1
+/home/karthik_emp3/Desktop/test/test1/bin/Debug/net5.0/test1.deps.json
+/home/karthik_emp3/Desktop/test/test1/bin/Debug/net5.0/test1.runtimeconfig.json
+/home/karthik_emp3/Desktop/test/test1/bin/Debug/net5.0/test1.runtimeconfig.dev.json
+/home/karthik_emp3/Desktop/test/test1/bin/Debug/net5.0/test1.dll
+/home/karthik_emp3/Desktop/test/test1/bin/Debug/net5.0/ref/test1.dll
+/home/karthik_emp3/Desktop/test/test1/bin/Debug/net5.0/test1.pdb
+/home/karthik_emp3/Desktop/test/test1/obj/Debug/net5.0/test1.dll
+/home/karthik_emp3/Desktop/test/test1/obj/Debug/net5.0/ref/test1.dll
+/home/karthik_emp3/Desktop/test/test1/obj/Debug/net5.0/test1.pdb
+/home/karthik_emp3/Desktop/test/test1/obj/Debug/net5.0/test1.genruntimeconfig.cache

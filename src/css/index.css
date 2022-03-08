@@ -1,0 +1,230 @@
+/***************** Index Header And footer *************************/
+
+.body {
+    height: 850px;
+    background-color: #3333 !important;
+  }
+  
+  
+  .container1{
+    background: rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .nav-masthead .normal:hover,.nav-masthead .normal:active {
+    background-color: #cecece;
+    font-size: large;
+  }
+  
+  header.masterhead{
+    background-color: transparent;
+    align-content: center;
+    justify-content: center;
+  }
+
+  h3.masthead-brand{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: xxx-large;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .nav-masthead {    
+    justify-content: center;
+    padding: 0.25rem 0;
+    font-weight: 700;
+    background-color: transparent;
+    margin-right: 10px;
+  }
+  .nav-masthead .nav-link{
+    border-bottom: 0.25rem solid transparent;
+    color: #727272;
+    border-bottom-width: 6px;
+  
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+  }
+  .nav-masthead .active {
+    color: rgb(20, 4, 4);
+    border-bottom-color: rgb(0, 0, 0);
+  }
+  
+
+  
+  .masterfoot{
+    text-align: center;
+    color: #727272;
+  }
+  
+  .masterfoot .foota{
+    color: aliceblue;
+    display: inline-flexbox;
+  }
+  p.user_name{
+    text-align: end;
+    font-weight: 420;
+    font-size: smaller;
+  }
+/******************************************************************************************/
+
+
+/***************** HOME PAGE *************************/
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+}
+
+.swiper-slide img {
+  display: block;
+  align-items: center;
+  margin-left: 280px;
+  justify-content: center;
+  width: 50%;
+}
+  
+/*********************  *********************************************************************/
+
+
+
+
+/*********************************LOGIN PAGE**************************************/
+
+  
+  .global-container{
+    height: 100%;
+    display: flex; /*display in small size */
+    /* align-items: ; */
+    padding-top: 50px;
+    margin-right: 50px;
+    justify-content: right;
+    color: rgb(167, 201, 14);
+  }
+  
+  form {
+    padding-top: 10px;
+    font-size: 16px;
+    margin-top: 30px
+  }
+  
+  .login-form {
+    width: 380px;
+    height: 550px;
+    margin: 20px;
+    background: #000000 !important;
+    border-radius: 40px !important;
+    -webkit-border-radius: 40px !important;
+    -moz-border-radius: 40px !important;
+    -ms-border-radius: 40px !important;
+    -o-border-radius: 40px !important;
+}
+  input[type='email'],
+  input[type='text'],
+  input[type='password']{
+    color: rgb(255, 255, 255);
+    background:  #1a2226;
+    border: 2px solid #ffa702;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+  
+  input[type='email']:focus,
+  input[type='text']:focus,
+  input[type='password']:focus{
+    background:  #ffdc14;
+  }
+  
+  .card-title {
+    font-weight: 90px;
+    padding-top: 20px;
+  }
+  
+  .btn {
+    background-color: #f44336 !important;
+    color: rgb(255, 255, 255) !important;
+    font-size: 14px !important;
+    transform: translateY(10px) !important;
+    border-radius: 10px !important;
+    cursor: pointer !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    -ms-border-radius: 10px !important;
+    -o-border-radius: 10px !important;
+  }
+  
+  .signup{
+    text-align: center;
+    margin-top: 25px;
+    margin-right: 60px;
+  }
+  
+  .glogin{
+    margin-top: 30px;
+    padding-left: 110px;
+  }
+  .bgimg{
+    background-image: url("https://images.unsplash.com/photo-1646335480320-6cfb285c835c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1Nnx8fGVufDB8fHx8&auto=format&fit=crop&w=900&q=60");
+
+    min-height: 380px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+/******************************************************************************************/
+
+.signup-form {
+  width: 380px;
+  height: 650px;
+  /* margin: 20px; */
+  background: #000000 !important;
+  border-radius: 40px !important;
+  -webkit-border-radius: 40px !important;
+  -moz-border-radius: 40px !important;
+  -ms-border-radius: 40px !important;
+  -o-border-radius: 40px !important;
+}
+.global-container-signup{
+  height: 100%;
+  display: flex; 
+  /* padding-top: 20px; */
+  margin-right: 50px;
+  justify-content: right;
+  color: rgb(167, 201, 14);
+}
+/******************************************************************************************/
+
+.form-create input{
+    margin-left: 10px;
+    color: rgb(255, 255, 255);
+    background:  #53c95d;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.create{
+  text-align: center;
+}
